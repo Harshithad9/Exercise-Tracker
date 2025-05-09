@@ -37,4 +37,9 @@ HTML5
 
 CSS3 (Glassmorphism + Responsive Design)
 
-Vanilla JavaScript
+JavaScript
+
+🚀 Deployment
+exercise-tracker-gm97.vercel.app
+
+
