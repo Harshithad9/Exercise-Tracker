@@ -1,68 +1,39 @@
-🏋️ Exercise Tracker
-A simple and interactive web-based exercise tracker that motivates users with quotes, allows them to select workouts from a curated list, and guides them toward healthy workout habits. This project is perfect for beginners and fitness enthusiasts who want a gentle, visual way to plan daily exercises.
+FitQuest 🏋️‍♀️
+FitQuest is an interactive, gamified workout web application that motivates users to embark on a personalized fitness journey. Whether you're aiming for weight loss, muscle gain, or stress relief, FitQuest offers a sleek UI, dynamic content, and engaging features to keep your workouts fun and rewarding.
 
-🚀 Features
-🎉 Warm Welcome with motivational quotes to boost user mood.
+🌟 Features
+🎨 Modern and Stylish UI — Glassmorphism design with gradient backgrounds and responsive layout.
 
-📷 Demo Images to visually guide users through exercises.
+🧠 Personalization — Enter your name and choose your fitness goal to get started.
 
-📝 Exercise Selection from a list of 10–15 exercises.
+🏃‍♀️ Workout Options — Select from different exercise challenges tailored to your chosen fitness purpose.
 
-⚠️ Health Warning if user selects more than 7 exercises — encouraging safe and sustainable fitness habits.
+⏱ Countdown Timer — Visual timer to guide users through their exercise session.
 
-💡 Minimalist and clean UI with light, friendly color schemes.
+📊 Progress Tracker — Dynamic progress bar to show workout completion.
 
-🔄 Responsive layout suitable for both mobile and desktop screens.
+🎉 Celebration Screen — End your workout with a vibrant success animation (confetti effect).
 
-📋 Exercise Categories (Sample)
-Push-ups
+📱 Mobile Responsive — Optimized for all screen sizes for fitness on the go.
 
-Squats
-
-Lunges
-
-Jumping Jacks
-
-Plank
-
-Sit-ups
-
-High Knees
-
-Mountain Climbers
-
-Arm Circles
-
-Leg Raises
-
-Wall Sit
-
-Crunches
-
-Burpees
-
-Users can select their preferred exercises based on their daily energy levels or focus area.
-
-🛠️ Tech Stack
-HTML5 – structure
-
-CSS3 – styling
-
-JavaScript – interactivity
-
-📦 Setup Instructions
-Clone the repository:
-
+🚀 Getting Started
+1. Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/exercise-tracker.git
-Open the project folder:
-
-bash
-Copy
-Edit
-cd exercise-tracker
-Run index.html in your browser.
+git clone https://github.com/your-username/fitquest.git
+cd fitquest
+2. Open index.html in a browser
+No additional installation needed — it’s a pure HTML/CSS/JavaScript project.
 
 
+Enhance functionality with sound effects, user authentication, or local storage to track history.
+
+Integrate real-time health APIs or a calendar for scheduling.
+
+🛠 Tech Stack
+HTML5
+
+CSS3 (Glassmorphism + Responsive Design)
+
+Vanilla JavaScript
