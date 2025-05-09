@@ -40,6 +40,10 @@ CSS3 (Glassmorphism + Responsive Design)
 JavaScript
 
 🚀 Deployment
-exercise-tracker-gm97.vercel.app
+## 🔗 Live Demo
+
+[Click here to try FitQuest! 🚀](exercise-tracker-gm97.vercel.app
+)
+
 
 
