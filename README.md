@@ -42,8 +42,7 @@ JavaScript
 🚀 Deployment
 ## 🔗 Live Demo
 
-[Click here to try FitQuest! 🚀](exercise-tracker-gm97.vercel.app
-)
+[Click here to try FitQuest! 🚀](exercise-tracker-gm97-7x8yoety6-harshitha-ds-projects-22123d49.vercel.app)
 
 
 
