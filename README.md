@@ -17,27 +17,5 @@ FitQuest is an interactive, gamified workout web application that motivates user
 📱 Mobile Responsive — Optimized for all screen sizes for fitness on the go.
 
 
-🚀 Getting Started
-1. Clone the Repository
-bash
-Copy
-Edit
-git clone https://github.com/Harshithad9/Exercise-Tracker.git
-cd fitquest
-2. Open index.html in a browser
-No additional installation needed — it’s a pure HTML/CSS/JavaScript project.
-
-
-Enhance functionality with sound effects, user authentication, or local storage to track history.
-
-Integrate real-time health APIs or a calendar for scheduling.
-
-🛠 Tech Stack
-HTML5
-
-CSS3 (Glassmorphism + Responsive Design)
-
-JavaScript
-
 
 
