@@ -1,4 +1,7 @@
 FitQuest 🏋️‍♀️
+
+
+
 FitQuest is an interactive, gamified workout web application that motivates users to embark on a personalized fitness journey. Whether you're aiming for weight loss, muscle gain, or stress relief, FitQuest offers a sleek UI, dynamic content, and engaging features to keep your workouts fun and rewarding.
 
 🌟 Features
